@@ -13,4 +13,4 @@ Below is a template for collecting information about problems.
 | Solution benefits | Detailed description of the benefits of a potential solution on the project |
 
 Below a list of all problems collected
-- [Climate data processing with dask extremly slow](https://github.com/epsilonit/FAIRiCUBE-lessons-learnt/blob/main/UCs-problems/Climate%20data%20processing%20with%20dask%20extremly%20slow.md)
+- [Climate data processing with dask extremly slow](UCs-problems/climate-data-processing-with-dask-extremly-slow.md)
