@@ -13,4 +13,4 @@ Below is a template for collecting information about problems.
 | Solution benefits | Detailed description of the benefits of a potential solution on the project |
 
 Below a list of all problems collected
-- [Climate data processing with dask extremly slow](UCs-problems/climate-data-processing-with-dask-extremly-slow.md)
+- [Climate data processing with dask extremly slow](UCs-problems/climate_data_processing_with_dask_extremly_slow.md)
