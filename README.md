@@ -1,4 +1,5 @@
-# FAIRiCUBE-lessons-learnt
-Development of a strategy and a scheme for the collection of feedback on the issues and problems presented to the UCs and the partners of the project.
+# FAIRiCUBE lessons learnt
+
+FAIRiCUBE lessons learnt consist of use cases challenges and related successes, failures, solutions and workarounds, documented using a [dedicated template](UCs-problems/UCs-problems.md).
 
 - [UCs problems](UCs-problems/UCs-problems.md)
