@@ -1,6 +1,6 @@
-# UCs lessons learnt
+# UCs lessons learnt dedicated template
 
-Below is a template for collecting information about problems.
+Below is a template for collecting information about lessons learnt.
 
 | Section | Description | 
 | ------- | ----------- |
