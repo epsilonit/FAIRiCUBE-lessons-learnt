@@ -4,10 +4,10 @@ Below is a template for collecting information about lessons learnt.
 
 | Section | Description | 
 | ------- | ----------- |
-| Use case | Use case |
+| Reference Use case | Use case |
 | Image | Image of the workflow highlighting the problem |
-| Description | Detailed problem description |
-| Impact on the project | Detailed description of the impact of the problem on the project |
-| Component | FAIRiCUBE Hub component causing the problem |
-| Potential solution | Detailed description of a potential solution |
-| Solution benefits | Detailed description of the benefits of a potential solution on the project |
+| Problem statement | Detailed problem statement description |
+| Envisaged impact | Detailed description of the impact of the problem on the project |
+| Affected component of FAIRiCUBE hub | FAIRiCUBE Hub component causing the problem |
+| Proposed solution | Detailed description of the proposed solution |
+| Expected benefits | Detailed description of the benefits of the proposed solution on the project |
