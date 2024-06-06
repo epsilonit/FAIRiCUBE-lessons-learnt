@@ -12,7 +12,7 @@ This problem causes execution time and resource consumption to increase exponent
 ## Affected component of FAIRiCUBE-Hub
 Storage, CPU, RAM and Network
 
-## Proposed or potential solution
+## Proposed solution
 Traditional file formats (e.g. tiff, netCDF) cause a lot of network traffic and slow down the computation when the file resides on the cloud. <br> Cloud-optimized format like COG, zarr are designed to overcome this problem.
 
 ## Expected benefits
