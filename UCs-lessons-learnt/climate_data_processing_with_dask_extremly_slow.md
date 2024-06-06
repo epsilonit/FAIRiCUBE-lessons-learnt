@@ -10,7 +10,7 @@ The scope is to process 1 year of hourly climate data (around 14GB in NetCDF) to
 This problem causes execution time and resource consumption to increase exponentially (up to 10x in some cases).
 
 ## Affected component of FAIRiCUBE-Hub
-Storage, CPU, RAM and Network
+FAIRiCUBE Lab (Storage, CPU, RAM and Network)
 
 ## Proposed solution
 Traditional file formats (e.g. tiff, netCDF) cause a lot of network traffic and slow down the computation when the file resides on the cloud. <br> Cloud-optimized format like COG, zarr are designed to overcome this problem.
